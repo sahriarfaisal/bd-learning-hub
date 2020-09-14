@@ -1,0 +1,73 @@
+[{
+    "id": 1,
+    "title": "Introducción a la programación en Python I: Aprendiendo a programar con Python",
+    "about": "Al finalizar el curso, serás capaz de desarrollar tus propios programas en Python y de seguir explorando para construir nuevos programas y cada vez más complejos. Este curso es el primer paso para convertirte en un/a profesional con habilidades básicas de programación y abrirte la puerta al futuro.",
+    "price": 80.00,
+    "image": "https://www.linkpicture.com/q/curso-python_V4.jpg"
+  }, {
+    "id": 2,
+    "title": "C for Everyone: Programming Fundamentals",
+    "about": "This course is for everyone. In the new world we live in, coding is a universally valuable skill, whether you're a scientist, artist, or a humanist. Algorithms are everywhere, and we all have to understand how they work. The C language is particularly well suited as an introduction to coding: It's a tried-and-true language, and it allows you to understand computing processes at a deep level.",
+    "price": 65.00,
+    "image": "https://www.linkpicture.com/q/CThumbnail_PartA-01.jpg"
+  }, {
+    "id": 3,
+    "title": "C# Programming for Unity Game Development Specialization",
+    "about": "This specialization is intended for beginning programmers who want to learn how to program Unity games using C#. The first course assumes no programming experience, and throughout the 4 courses in the specialization you'll learn how to program in C# and how to use that C# knowledge to program Unity games. The C# and Unity material in the courses in the specialization is slightly more comprehensive than the content in the first 2 game programming courses at UCCS.",
+    "price": 90.00,
+    "image": "https://www.linkpicture.com/q/Specialization-Logo-C-Sharp-Only.jpg"
+  }, {
+    "id": 4,
+    "title": "Java Programming and Software Engineering Fundamentals Specialization",
+    "about": "Take your first step towards a career in software development with this introduction to Java—one of the most in-demand programming languages and the foundation of the Android operating system. Designed for beginners, this Specialization will teach you core programming concepts and equip you to write programs to solve complex problems. In addition, you will gain the foundational skills a software engineer needs to solve real-world problems, from designing algorithms to testing and debugging your programs.",
+    "price": 35.00,
+    "image": "https://www.linkpicture.com/q/Duke_JavaProgrammingIntrotoSoftware_CM195522.jpg"
+  }, {
+    "id": 5,
+    "title": "Computational Thinking for Problem Solving",
+    "about": "Computational thinking is the process of approaching a problem in a systematic manner and creating and expressing a solution such that it can be carried out by a computer.  But you don't need to be a computer scientist to think like a computer scientist!  In fact, we encourage students from any field of study to take this course.  Many quantitative and data-centric problems can be solved using computational thinking and an understanding of computational thinking will give you a foundation for solving problems that have real-world, social impact.",
+    "price": 25.00,
+    "image": "https://www.linkpicture.com/q/CTMOOC_800x800.jpg"
+  }, {
+    "id": 6,
+    "title": "Build Your Portfolio Website with HTML and CSS",
+    "about": "This 1-hour long project will take you step by step to create a portfolio website. You will learn the basic components of a website, and how to create simple contents using HTML (hypertext markup language) and CSS (cascading style sheets), and how to host it on a popular developer website called “GitHub” with your own subdomain name!",
+    "price": 60.00,
+    "image": "https://www.linkpicture.com/q/1200x1200.jpg"
+  }, {
+    "id": 7,
+    "title": "Google IT Automation with Python Professional Certificate",
+    "about": "This program builds on your IT foundations to help you take your career to the next level. It’s designed to teach you how to program with Python and how to use Python to automate common system administration tasks. You'll also learn to use Git and GitHub, troubleshoot and debug complex problems, and apply automation at scale by using configuration management and the Cloud",
+    "price": 85.00,
+    "image": "https://www.linkpicture.com/q/Xavier-MI-Thompson-119.jpg"
+  }, {
+    "id": 8,
+    "title": "Object-Oriented Data Structures in C++",
+    "about": "This course teaches learners how to write a program in the C++ language, including how to set up a development environment for writing and debugging C++ code and how to implement data structures as C++ classes. It is the first course in the Accelerated CS Fundamentals specialization, and subsequent courses in this specialization will be using C++ as the language for implementing the data structures covered in class.",
+    "price": 50.00,
+    "image": "https://www.linkpicture.com/q/CS400_Logo_B.jpg"
+  }, {
+    "id": 9,
+    "title": "Managing Security in Google Cloud Platform",
+    "about": "Through recorded lectures, demonstrations, and hands-on labs, participants explore and deploy the components of a secure GCP solution, including Cloud Identity, the GCP Resource Manager, Cloud IAM, Google Virtual Private Cloud firewalls, Google Cloud Load balancing, Cloud CDN, Cloud Storage access control technologies, Stackdriver, Security Keys, Customer-Supplied Encryption Keys, the Google Data Loss Prevention API, and Cloud Armor. Participants learn mitigations for attacks at many points in a GCP-based infrastructure, including Distributed Denial-of-Service attacks, phishing attacks, and threats involving content classification and use.",
+    "price": 55.00,
+    "image": "https://www.linkpicture.com/q/managing-security-gcp-course-logo.jpg"
+  }, {
+    "id": 10,
+    "title": "Machine Learning",
+    "about": "Machine learning is the science of getting computers to act without being explicitly programmed. In the past decade, machine learning has given us self-driving cars, practical speech recognition, effective web search, and a vastly improved understanding of the human genome. Machine learning is so pervasive today that you probably use it dozens of times a day without knowing it. Many researchers also think it is the best way to make progress towards human-level AI. In this class, you will learn about the most effective machine learning techniques, and gain practice implementing them and getting them to work for yourself. More importantly",
+    "price": 75.00,
+    "image": "https://www.linkpicture.com/q/Machine-Learning.jpg"
+  }, {
+    "id": 11,
+    "title": "Web Design for Everybody: Basics of Web Development & Coding Specialization",
+    "about": "This Specialization covers how to write syntactically correct HTML5 and CSS3, and how to create interactive web experiences with JavaScript. Mastering this range of technologies will allow you to develop high quality web sites that, work seamlessly on mobile, tablet, and large screen browsers accessible. During the capstone you will develop a professional-quality web portfolio demonstrating your growth as a web developer and your knowledge of accessible web design. This will include your ability to design and implement a responsive site that utilizes tools to create a site that is accessible to a wide audience, including those with visual, audial, physical, and cognitive impairments.",
+    "price": 45.00,
+    "image": "https://www.linkpicture.com/q/webdesign.jpg"
+  }, {
+    "id": 12,
+    "title": "HTML, CSS, and Javascript for Web Developers",
+    "about": "Do you realize that the only functionality of a web application that the user directly interacts with is through the web page? Implement it poorly and, to the user, the server-side becomes irrelevant! Today’s user expects a lot out of the web page: it has to load fast, expose the desired service, and be comfortable to view on all devices: from a desktop computers to tablets and mobile phones.",
+    "price": 25.00,
+    "image": "https://www.linkpicture.com/q/jhep-coursera-course4.jpg"
+  }]

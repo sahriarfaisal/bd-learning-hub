@@ -1,0 +1,27 @@
+.course-container{
+    display: flex;
+}
+.course-heading{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}
+.product-container{
+    width: 70%;
+    margin-left: 30px;
+    margin-right: 5px;
+}
+/*===cart css==*/
+.cart-container{
+    border-left: 1px solid green;
+    padding-left: 5px;
+}
+.cart-container span{
+    color: #F6881F;
+    margin-left: 10px;
+}
+.cart-heading{
+    color: green;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+}

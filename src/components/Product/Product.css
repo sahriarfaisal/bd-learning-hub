@@ -1,0 +1,41 @@
+.product{
+    display: flex;
+    border-bottom: 1px solid green;
+    margin-bottom: 5px;
+    margin-right: 10px;
+    padding-bottom: 5px;
+    margin-top: 10px;
+
+}
+.product-content{
+    margin-left: 20px;
+}
+.product-title{
+    color: green;
+    font-weight: 400;
+    font-size: ;
+}
+.product-about{
+    color: gray;
+}
+.product-price{
+    font-size: ;
+}
+.product-price span{
+    color: #F6881F;
+}
+.enroll-btn{
+    background-color: #F6881F;
+    width: 150px;
+    height: 30px;
+    border: 1px solid green;
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 5px;
+}
+.enroll-btn:hover{
+    background-color: green;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
